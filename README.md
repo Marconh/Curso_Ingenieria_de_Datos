@@ -23,7 +23,7 @@ El plan formativo está compuesto por **11 módulos** (207 horas en total):
 8. **Integración de datos**  
 9. **Tecnología Cloud para ingenieros de datos**  
 10. **Desarrollo de portafolio de especialidad**  
-11. **Empleabilidad en la industria digital**:contentReference[oaicite:1]{index=1}
+11. **Empleabilidad en la industria digital**
 
 ---
 
