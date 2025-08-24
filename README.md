@@ -6,7 +6,7 @@ Este repositorio contiene materiales, apuntes, ejercicios y proyectos relacionad
 
 ## Objetivo del curso
 Desarrollar conocimientos y habilidades fundamentales en ingeniería de datos, orientados al manejo, modelamiento y explotación de altos volúmenes de información.  
-Al finalizar el curso, los participantes estarán capacitados para implementar soluciones de datos de acuerdo con estándares y buenas prácticas de la industria:contentReference[oaicite:0]{index=0}.
+Al finalizar el curso, los participantes estarán capacitados para implementar soluciones de datos de acuerdo con estándares y buenas prácticas de la industria.
 
 ---
 
@@ -39,7 +39,7 @@ El plan formativo está compuesto por **11 módulos** (207 horas en total):
 ---
 
 ## Campo laboral
-Los conocimientos adquiridos permiten desempeñarse en organizaciones públicas y privadas que trabajen con desarrollo e implementación de software, análisis de datos, inteligencia de negocios y proyectos de ciencia de datos:contentReference[oaicite:2]{index=2}.
+Los conocimientos adquiridos permiten desempeñarse en organizaciones públicas y privadas que trabajen con desarrollo e implementación de software, análisis de datos, inteligencia de negocios y proyectos de ciencia de datos.
 
 ---
 
