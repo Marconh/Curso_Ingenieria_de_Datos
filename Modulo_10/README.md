@@ -9,13 +9,13 @@ Mi objetivo es demostrar mis habilidades en **Python, SQL, análisis de datos, v
 ##  Proyectos Destacados
 
 -  [Proyecto 1: Datos con mongoDB](Modulo_4/MongoDB.ipynb)  
-  *Extracción, limpieza y clasificación de alarmas críticas en equipos OLT. Desarrollo de métricas para identificar patrones de fallas.*  
+  *CRUD y otros aspectos de como utilizar mongoDB.*  
 
 -  [Proyecto 2: Como utilizar spark](modulo_7/Spark_modulo_7.ipynb)  
-  *Análisis de métricas de rendimiento en reproducción de video (latencia, buffering, velocidad de enlace). Aplicación de clustering para segmentar experiencias de usuario.*  
+  *CRUD y otros aspectos de como utilizar Spark.*  
 
 -  [Proyecto 3: Predicción de credito]([modulo_7/Spark_modulo_7.ipynb](https://github.com/Marconh/Curso_Ingenieria_de_Datos/blob/main/Modulo_6/ABP%20Modulo%206.ipynb))  
-  *Modelos predictivos para anticipar incrementos en volumen de llamadas a call centers, usando KPIs de red y variables de calendario.*  
+  *Modelos predictivos para decidir si dar o no credito.*  
 
 ---
 
