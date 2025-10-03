@@ -14,7 +14,7 @@ Mi objetivo es demostrar mis habilidades en **Python, SQL, análisis de datos, v
 -  [Proyecto 2: Como utilizar spark](modulo_7/Spark_modulo_7.ipynb)  
   *Análisis de métricas de rendimiento en reproducción de video (latencia, buffering, velocidad de enlace). Aplicación de clustering para segmentar experiencias de usuario.*  
 
--  [Proyecto 3: Predicción de credito](modulo_7/Spark_modulo_7.ipynb)  
+-  [Proyecto 3: Predicción de credito]([modulo_7/Spark_modulo_7.ipynb](https://github.com/Marconh/Curso_Ingenieria_de_Datos/blob/main/Modulo_6/ABP%20Modulo%206.ipynb))  
   *Modelos predictivos para anticipar incrementos en volumen de llamadas a call centers, usando KPIs de red y variables de calendario.*  
 
 ---
