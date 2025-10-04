@@ -22,7 +22,7 @@ Mi objetivo es demostrar mis habilidades en **Python, SQL, análisis de datos, v
 ## 🎯 Proyecto ABP – Módulo 10  
 **Prepárate para el mercado laboral**  
 
-- 📌 [Carpeta del Módulo 10](https://github.com/Marconh/Curso_Ingenieria_de_Datos/blob/main/Modulo_10/Actividad%20ABP%20Portafolio.docx)  
+- 📌 [Actividad ABP 10](https://github.com/Marconh/Curso_Ingenieria_de_Datos/blob/main/Modulo_10/Actividad%20ABP%20Portafolio.docx)  
   *Incluye: investigación de empresa (Microsoft), aportes de valor, preguntas para el reclutador.*  
 
 ---
